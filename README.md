@@ -1,5 +1,5 @@
 Alisha Anum
 
-Links not opening in the same tab. #9
+Use a better font. #3
 
-Changed the target from "_blank" to "_self" in order to open files in the same tab.
+Changed the font by adding link to google fonts and targeting the center
